@@ -13,9 +13,9 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            東大卒億り人タクちゃん投資ブログ<span className="fancy">.</span>
+            東大卒億り人タクちゃん投資のブログ<span className="fancy">.</span>
           </h1>
-          <span className="handle">@takutyan-ut-blog</span>
+          <span className="handle">@takutyan_ut</span>
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
         </div>
