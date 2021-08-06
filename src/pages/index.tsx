@@ -9,14 +9,14 @@ export default function Index() {
     <Layout>
       <BasicMeta url={"/"} />
       <OpenGraphMeta url={"/"} />
-      <TwitterCardMeta url={"/"} />
+      <TwitterCardMeta url={"/takutyan_ut"} />
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            東大卒億り人タクちゃん投資ブログ<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">@takutyan-ut-blog</span>
+          <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
         </div>
       </div>
