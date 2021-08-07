@@ -42,6 +42,7 @@ export default function PostList({ posts, tags, pagination }: Props) {
       </ul>
       <style jsx>{`
         .container {
+          overflow: scroll;
           display: flex;
           margin: 0 auto;
           max-width: 1200px;
