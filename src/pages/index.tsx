@@ -49,6 +49,12 @@ export default function Index() {
           color: #9b9b9b;
           letter-spacing: 0.05em;
         }
+        .twitter-timeline {
+          display: inline-block;
+          margin-top: 0.350em;
+          color: #9b9b9b;
+          letter-spacing: 0.05em;
+        }
 
         @media (min-width: 769px) {
           h1 {
