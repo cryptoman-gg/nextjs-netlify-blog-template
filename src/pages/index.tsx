@@ -26,6 +26,8 @@ export default function Index() {
             <a className="coincheck" href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow">
               <img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック"/>
             </a>
+            <a href= "https://t.co/HzcvHYKMzN?amp=1" target="_blank" rel="noopener">LINE オープンチャット<img border="1" src="./blog/line.PNG" width="256" height="128" ></a>
+            <a href="https://betfury.io/boxes/all?r=60c6cd066f4a3f17921f512c" target="_blank"><img src="https://betfury.io/pictures/static-1/bf_320x100.png" alt="betfury.io" /></a>
             
           </div>
          </div>
