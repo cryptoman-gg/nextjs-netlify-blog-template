@@ -51,7 +51,9 @@ export default function Index() {
         }
         .twitter-timeline {
           display: inline-block;
-          margin-top: 0.350em;
+          margin-top: 400px;
+          width: 400px;
+          height: 600px
           color: #9b9b9b;
           letter-spacing: 0.05em;
         }
