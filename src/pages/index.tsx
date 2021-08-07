@@ -18,7 +18,7 @@ export default function Index() {
           <span className="handle">@takutyan_ut</span>
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
-          <div>
+          <div className = "advList">
             <a className="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">
               Tweets by takutyan_ut
             </a> 
@@ -57,13 +57,22 @@ export default function Index() {
           color: #9b9b9b;
           letter-spacing: 0.05em;
         }
-        .twitter-timeline{
-          display: inline-block;
-          float: left;
+        .advList {
+        padding: 2.5% 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        );
         }
-        .coinsheck{
-          display: inline-block;
-          float: left;
+        .advList >*{
+        width: 8%;
+        background: #fff;
+        font-size: 64px;
+        text-align: center;
+        }
+        .advList,
+        .advList > *{
+        border: 3px solid #aaa;
         }
         @media (min-width: 798px) {
           h1 {
