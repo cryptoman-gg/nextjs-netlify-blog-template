@@ -34,7 +34,7 @@ export default function Index() {
         }
         h1 {
           font-size: 2.5rem;
-          margin: 20;
+          margin: 0;
           font-weight: 500;
         }
         h2 {
