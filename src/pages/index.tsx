@@ -19,7 +19,8 @@ export default function Index() {
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
           <div>
-            <a className="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script></div>
+            <a className="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
+            <a href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック" border="0" /></a>
           </div>
          </div>
        
