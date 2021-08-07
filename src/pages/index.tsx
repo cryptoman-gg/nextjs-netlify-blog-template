@@ -19,7 +19,7 @@ export default function Index() {
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
           
-          <a className="twitter-timeline" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
+          <spam className="twitter-timeline" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</span> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
         </div>
       </div>
       <style jsx>{`
