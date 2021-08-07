@@ -50,7 +50,7 @@ export default function Index() {
           color: #9b9b9b;
           letter-spacing: 0.05em;
         }
-        @media (min-width: 769px) {
+        @media (min-width: 4000px) {
           h1 {
             font-size: 3rem;
           }
