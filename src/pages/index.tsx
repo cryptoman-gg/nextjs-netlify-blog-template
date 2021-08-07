@@ -23,7 +23,7 @@ export default function Index() {
               Tweets by takutyan_ut
             </a> 
             <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
-            <a href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">
+            <a href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow">
               <img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック" border="0" />
             </a>
             
