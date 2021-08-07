@@ -32,11 +32,9 @@ export default function Index() {
           </div>
       <style jsx>{`
         .container {
-          overflow : scroll;
           display: flex;
           align-items: center;
           justify-content: center;
-          flex: 1 1 auto;
           padding: 0 1.5rem;
           z-index: 1000;
         }
@@ -59,7 +57,7 @@ export default function Index() {
           color: #9b9b9b;
           letter-spacing: 0.05em;
         }
-        @media (min-width: 4000px) {
+        @media (min-width: 798px) {
           h1 {
             font-size: 3rem;
           }
