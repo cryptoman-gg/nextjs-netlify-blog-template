@@ -19,12 +19,13 @@ export default function Index() {
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
           <div>
-            <a className="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script></div>
+            <a className="twitter-timeline" data-width="" data-height="500" data-theme="dark" href="https://twitter.com/takutyan_ut?ref_src=twsrc%5Etfw">Tweets by takutyan_ut</a> <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script></div>
           </div>
          </div>
        
       <style jsx>{`
         .container {
+          overflow : scroll;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -33,7 +34,7 @@ export default function Index() {
         }
         h1 {
           font-size: 2.5rem;
-          margin: 0;
+          margin: 20;
           font-weight: 500;
         }
         h2 {
