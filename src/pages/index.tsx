@@ -24,7 +24,7 @@ export default function Index() {
             </a> 
             <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
             <a href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow">
-              <img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック" border="0" />
+              <img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック"/>
             </a>
             
           </div>
