@@ -18,6 +18,9 @@ export default function Index() {
           <span className="handle">@takutyan_ut</span>
           <h2>仮想通貨を中心に投資・お得情報を発信していきます！！</h2>
           <SocialList />
+          　<a class="twitter-timeline"　href="https://twitter.com/takutyan_ut"　data-chrome="nofooter noborders">
+　　　　　　　Tweets by @takutyan_ut
+　　　　　　</a>
         </div>
       </div>
       <style jsx>{`
