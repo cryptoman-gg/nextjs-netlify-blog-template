@@ -23,7 +23,7 @@ export default function Index() {
               Tweets by takutyan_ut
             </a> 
             <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
-            <a href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow">
+            <a className="coincheck" href="https://h.accesstrade.net/sp/cc?rk=0100o4jh00lj0h" rel="nofollow">
               <img src="https://h.accesstrade.net/sp/rr?rk=0100o4jh00lj0h" alt="コインチェック"/>
             </a>
             
@@ -56,6 +56,14 @@ export default function Index() {
           margin-top: 0.275em;
           color: #9b9b9b;
           letter-spacing: 0.05em;
+        }
+        .twitter-timeline{
+          display: inline-block;
+          float: left;
+        }
+        .coinsheck{
+          display: inline-block;
+          float: left;
         }
         @media (min-width: 798px) {
           h1 {
