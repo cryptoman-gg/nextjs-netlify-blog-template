@@ -58,7 +58,7 @@ export default function Index() {
           letter-spacing: 0.05em;
         }
         .advList {
-        padding: 2.5% 0;
+        padding: 1% 0;
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
@@ -70,10 +70,7 @@ export default function Index() {
         font-size: 64px;
         text-align: center;
         }
-        .advList,
-        .advList > *{
-        border: 3px solid #aaa;
-        }
+        
         @media (min-width: 798px) {
           h1 {
             font-size: 3rem;
